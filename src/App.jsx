@@ -38,7 +38,7 @@ function App() {
               </TabButton>
             ))}
           </menu>
-          Sorry, I cannot answer that question.
+
           <div id="tab-content">
             {selectedTopic ? (
               <>
